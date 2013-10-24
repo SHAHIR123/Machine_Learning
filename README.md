@@ -31,7 +31,13 @@ Machine Learning - Coursera.org
     - Neural Network Prediction Function
   
  IX. Neural Networks: Learning (Week 5)
-  
+  Neural Network Learning 
+    - Feedforward and Cost Function
+    - Regularized Cost Function
+    - Sigmoid gradient
+    - Neural Net Gradient Function (Backpropagation)
+    - Regularized Gradient
+    
  X. Advice for Applying Machine Learning (Week 6)
   
  XII. Support Vector Machines (Week 7)
