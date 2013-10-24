@@ -39,8 +39,20 @@ Machine Learning - Coursera.org
     - Regularized Gradient
     
  X. Advice for Applying Machine Learning (Week 6)
-  
+  Neural Network Learning 
+    - Feedforward and Cost Function
+    - Regularized Cost Function
+    - Sigmoid gradient
+    - Neural Net Gradient Function (Backpropagation)
+    - Regularized Gradient
+    
  XII. Support Vector Machines (Week 7)
+  Regularized Linear Regression and Bias/Variance
+    - Regularized Linear Regression Cost Function
+    - Regularized Linear Regression Gradient
+    - Learning Curve
+    - Polynomial Feature Mapping
+    - Cross Validation Curve
   
  XIV. Dimensionality Reduction (Week 8)
   
