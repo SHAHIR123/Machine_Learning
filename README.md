@@ -55,6 +55,11 @@ Machine Learning - Coursera.org
     - Cross Validation Curve
   
  XIV. Dimensionality Reduction (Week 8)
-  
+  Support Vector Machines
+    - Gaussian Kernel
+    - Parameters (C, sigma) for Dataset 3
+    - Email Preprocessing
+    - Email Feature Extraction
+
  XVI. Recommender Systems (Week 9)
   
