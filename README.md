@@ -23,4 +23,20 @@ Machine Learning - Coursera.org
     - Compute cost for regularized LR
     - Gradient for regularized LR
 
+ VIII. Neural Networks: Representation (Week 4)
+  Multi-class Classification and Neural Networks 
+    - Regularied Logistic Regression
+    - One-vs-all classifier training
+    - One-vs-all classifier prediction
+    - Neural Network Prediction Function
+  
+ IX. Neural Networks: Learning (Week 5)
+  
+ X. Advice for Applying Machine Learning (Week 6)
+  
+ XII. Support Vector Machines (Week 7)
+  
+ XIV. Dimensionality Reduction (Week 8)
+  
+ XVI. Recommender Systems (Week 9)
   
