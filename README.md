@@ -63,3 +63,12 @@ Machine Learning - Coursera.org
     - Recover Data
 
  XVI. Recommender Systems (Week 9)
+  Anomaly Detection and Recommender Systems
+    - Estimate Gaussian Parameters
+    - Select Threshold
+    - PCA
+    - Collaborative Filtering Cost
+    - Collaborative Filtering Gradient  
+    - Regularized Cost
+    
+    - Gradient with regularization 
