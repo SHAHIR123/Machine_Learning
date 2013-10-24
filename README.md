@@ -14,4 +14,13 @@ Machine Learning - Coursera.org
     - Gradient Descent for Multiple Variables (optional)
     - Normal Equations (optional)
 
+ VII. Regularization (Week 3)
+  Logistic Regression
+    - Sigmoid Function
+    - Compute cost for logistic regression
+    - Gradient for logistic regression
+    - Predict Function
+    - Compute cost for regularized LR
+    - Gradient for regularized LR
+
   
